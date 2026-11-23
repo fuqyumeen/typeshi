@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
 
 import Sulabh from "./Sulabh";
-import Shitpost1 from "../pages/sulabhposts/shitpost1";
-import Shitpost2 from "../pages/sulabhposts/shitpost2";
-import Shitpost3 from "../pages/sulabhposts/shitpost3";
+import Shitpost1 from "../pages/sulabhposts/Shitpost1";
+import Shitpost2 from "../pages/sulabhposts/Shitpost2";
+import Shitpost3 from "../pages/sulabhposts/Shitpost3";
 function SulabhRoutes() {
   return (
     <Routes>

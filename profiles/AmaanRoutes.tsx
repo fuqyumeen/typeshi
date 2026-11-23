@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
 import Amaan from "./Amaan";
-import Meme1 from "../pages/amaanposts/meme1";
+import Meme1 from "../pages/amaanposts/Meme1";
 import Meme2 from "../pages/amaanposts/Meme2";
 import Meme3 from "../pages/amaanposts/Meme3";
 import Xqc from "../pages/amaanposts/Xqc";
