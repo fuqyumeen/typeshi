@@ -1,9 +1,5 @@
 
 import Paragraph from '../../src/components/Paragraph'
-import memeCulture from "../zimages/amaanimages/memeculture.png"
-import {
-  ImagieCenter,
-} from '../../src/components/Imagie';
 import Title from '../../src/components/Title';
 
 function Meme2() {
@@ -20,8 +16,6 @@ function Meme2() {
         Whether it's a trending video, a funny reaction, or a creative
         edit, memes have become a universal language of the internet.
       </Paragraph>
-
-      <ImagieCenter src={memeCulture} alt="Meme Culture" />
 
       <Paragraph>
         In the early days of the internet, memes were mostly simple images
