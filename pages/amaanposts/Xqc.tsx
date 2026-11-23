@@ -1,6 +1,4 @@
-
 import Paragraph from '../../src/components/Paragraph'
-import { ImagieCenter } from '../../src/components/Imagie';
 import Title from '../../src/components/Title';
 
 function Xqc() {
